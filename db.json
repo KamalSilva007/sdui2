@@ -102,23 +102,7 @@
                             }
                           }
                         }
-                      },
-                      {
-                        "type": "elevated_button",
-                        "args": {
-                          "onPressed": "##Delete()##"
-                        },
-                        "child": {
-                          "type": "text",
-                          "args": {
-                            "text": "Remove",
-                            "style": {
-                              "color": "#fff"
-                            }
-                          }
-                        }
                       }
-                    ],
                     "mainAxisSize": "max",
                     "alignment": "center"
                   }
